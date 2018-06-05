@@ -1,0 +1,70 @@
+[
+  {
+    "name": "香味糕点",
+    "src": "/static/icon/niunai1.png",
+    "aa": [
+      {
+        "aName": "桂林特产 板栗糕",
+        "src": "/static/images/banligao.jpg",
+        "aJs": "160g*4/盒",
+        "xPrice": "20",
+        "yPrice": "35"
+      },
+      {
+        "aName": "葡韵 澳门特产 凤凰卷",
+        "src": "/static/images/fenghuangjuan.jpg",
+        "aJs": "6个/盒",
+        "xPrice": "25",
+        "yPrice": "40"
+      },
+      {
+        "aName": "上海特产 屋里香 玫瑰酥",
+        "src": "/static/images/meiguisu.jpg",
+        "aJs": "280g/盒",
+        "xPrice": "59",
+        "yPrice": "69"
+      },
+      {
+        "aName": "鲜乳酪面包",
+        "src": "/static/images/rulao.jpg",
+        "aJs": "800g/盒",
+        "xPrice": "45.90",
+        "yPrice": "46.90"
+      }
+    ]
+  },
+  {
+    "src" : "../../static/icon/shuiguo1.png",
+    "name" : "新鲜水果",
+    "aa" : [
+      {
+        "src" : "../../static/img/1-ck.png",
+        "aName" : "禹州与中牟杂交水蜜桃",
+        "aJs" : "果肉绵密、花蜜般的甘甜百吃不厌",
+        "xPrice" : "28.80",
+        "yPrice" : "40.00"
+      },
+      {
+        "src" : "../../static/img/2-ck.png",
+        "aName" : "又大又圆的蓝莓呦",
+        "aJs" : "果肉绵密、花蜜般的甘甜百吃不厌",
+        "xPrice" : "28.80",
+        "yPrice" : "40.00"
+      },
+      {
+        "src" : "../../static/img/3-ck.png",
+        "aName" : "五旗山上的heng",
+        "aJs" : "果肉绵密、花蜜般的甘甜百吃不厌",
+        "xPrice" : "28.80",
+        "yPrice" : "40.00"
+      },
+      {
+        "src" : "../../static/img/4-ck.png",
+        "aName" : "广东高州新鲜荔枝",
+        "aJs" : "果肉绵密、花蜜般的甘甜百吃不厌",
+        "xPrice" : "28.80",
+        "yPrice" : "40.00"
+      }
+    ]
+  }
+]
